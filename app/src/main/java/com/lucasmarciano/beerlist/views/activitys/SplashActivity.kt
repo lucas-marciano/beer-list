@@ -1,7 +1,8 @@
-package com.lucasmarciano.beerlist
+package com.lucasmarciano.beerlist.views.activitys
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
+import com.lucasmarciano.beerlist.R
 
 class SplashActivity : AppCompatActivity() {
 
